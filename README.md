@@ -17,7 +17,7 @@
 ### 📫 Contact
 - ✉️ **Email:** [mohamedyousif44704@gmail.com](mailto:mohamedyousif44704@gmail.com)  
 - 🔗 **GitHub:** [github.com/mohamedyousif38](https://github.com/mohamedyousif38)  
-- 💼 **LinkedIn:** *(أضف الرابط لاحقًا)*  
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/mohamed-yousif-150b86371)*  
 
 ---
 
