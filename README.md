@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mohamed Yousif 👋
 
-<!--
-**mohamedyousif38/mohamedyousif38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Back-End Developer | ASP.NET Core • EF Core • SQL Server | Open to work**
 
-Here are some ideas to get you started:
+## About Me
+I build Web APIs using ASP.NET Core and SQL Server.  
+Currently working on improving my backend development skills and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- LINQ
+- Authentication & Authorization (JWT)
+
+## Projects
+- ✅ Task Management API → (https://github.com/mohamedyousif38/TaskManagementAPI)
+
+---
+
+📫 **Contact**  
+Email: mohamedyousif44704@gmail.com  
