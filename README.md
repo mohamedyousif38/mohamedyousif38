@@ -10,17 +10,27 @@ I’m currently improving my backend development skills and building real-world 
 ---
 
 ## 🚀 Tech Skills
-- **ASP.NET Core Web API**
-- **Entity Framework Core (EF Core)**
-- **SQL Server**
-- **LINQ**
-- **Repository Pattern**
-- **JWT Authentication & Authorization**
-- **Role-Based Authorization**
-- **Clean Code Principles**
+ASP.NET Core Web API
 
----
+Entity Framework Core (EF Core)
 
+C# Programming
+
+SQL Server & Database Design
+
+LINQ
+
+Authentication & Authorization (JWT)
+
+RESTful API Design
+
+Clean Architecture (Basics)
+
+Dependency Injection (DI)
+
+Git & GitHub
+
+Postman & Swagger
 ## 📂 Featured Projects
 
 ### 🔹 **User Management API (New)**
